@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<hr/>
 
 I am Erfan, 22 years old A junior Front-End Developer with team spirit and a passion for both personal growth and app development. 
