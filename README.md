@@ -4,7 +4,7 @@
 
 Hey! 👋
 <br/>
-I Am Erfan, 22 Year Old, A Junior Front-End Developer with team spirit and a passion for both personal growth and app development.
+I am Erfan, 22 year old, A junior Front-End Developer with team spirit and a passion for both personal growth and app development.
 ## Skills
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
