@@ -3,9 +3,8 @@
 </h1>
 
 
-# 💫 About Me:
-<h1>Hello, I'm Erfan Mirhoseini</h1>
-Hello,  l'm Erfan Mirhoseini,<br>23year old, A junior Front-End Developer with team spirit and a passion for both personal growth and app development.
+<h1>💫 About Me : Hello, I'm Erfan Mirhoseini</h1>
+23year old, A junior Front-End Developer with team spirit and a passion for both personal growth and app development.
 
 
 ## 🌐 Socials:
